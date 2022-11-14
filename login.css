@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    height: 70vh;
+    width: 30%;
+    margin: 90px 500px;
+    background-color: rgb(171, 171, 171);
+}
+
+.head{
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+.inpFldDiv{
+    height: 50vh;
+    width: 90%;
+    background-color: yellow;
+     margin: 70px;  
+     row-gap: 500px;
+}
+  
